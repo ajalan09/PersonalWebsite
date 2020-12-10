@@ -8,6 +8,56 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+.space-give {
+  padding-bottom: 20px;
+}
+
+.center {
+  display: block !important;
+  margin: auto !important;
+  width: 80% !important;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.space-giving {
+  padding-top: 100px !important;
+}
+
+.center2 {
+  display: block !important;
+  margin: auto !important;
+  width: 30% !important;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.center3 {
+  display: block !important;
+  margin: auto !important;
+  width: 65% !important;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.rowAlign{
+  text-align: center;
+}
+.columnImg-left{
+  padding-left: 50px;
+  display: inline-block;
+  width: 45%;
+  margin: 5px;
+}
+
+.columnImg-right{
+  padding-right: 50px;
+  display: inline-block;
+  width: 45%;
+  margin: 5px;
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
@@ -1155,3 +1205,7 @@ li {
    display: flex;
    align-items:center;
 }
+
+
+
+
